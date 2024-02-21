@@ -2,7 +2,7 @@
 
 <h2>Done using C# with .Net Framework (Windows Form Application)</h2>
 </br>
-<ul style="list-style-type:▫️">
+<ul style="list-style-type:square">
   Me an my group members made a simple Airline Management System for our Last Project in <b>Dilpoma in Software Engineering</b>
   <li>Conected to ms sql express database</li>
   <li>Only for Admin (Flight Officer)</li>
