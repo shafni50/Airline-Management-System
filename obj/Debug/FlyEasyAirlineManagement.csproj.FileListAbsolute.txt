@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\test.AddPassenger.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\bin\Debug\FlyEasyAirlineManagement.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\bin\Debug\FlyEasyAirlineManagement.exe
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\bin\Debug\FlyEasyAirlineManagement.pdb
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.exe
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.pdb
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.Dashboard.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.ViewPassenger.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.FlightTbl.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.ViewFlights.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.Tickets.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.Login.resources
+C:\Users\LENOVO\OneDrive\Desktop\vs-projects\FlyEasyAirlineManagement\FlyEasyAirlineManagement\obj\Debug\FlyEasyAirlineManagement.AdminRegistration.resources
